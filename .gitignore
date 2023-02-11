@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+data/db/*.db
+.env
+.DS_Store
+*.egg-info/
+dist/
+build/
+.vercel
+node_modules/
+.next/
+.omc/
+CLAUDE.md
+rebuild_history.py
